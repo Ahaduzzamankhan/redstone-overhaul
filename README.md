@@ -48,15 +48,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Bug Reports
 
-Found a bug? Please report it on our [Issues page](https://github.com/cadmium-mod/redstone-overhaul/issues)
+Found a bug? Please report it on our [Issues page](https://github.com/Ahaduzzamankhan/redstone-overhaul/issues)
 
 ---
 
 ## 💬 Community
 
 Join our Discord for discussions, support, and updates:
-[Discord Server](https://discord.gg/cadmium-mod)
+[Discord Server](https://discord.gg/9q7HTGUeQF)
 
 ---
 
-*Version 0.0.1-alpha | April 2026*
+
