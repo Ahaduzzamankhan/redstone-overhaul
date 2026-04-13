@@ -1,3 +1,8 @@
+<a href="https://ko-fi.com/fluxenite">
+  <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_red.png" width="300">
+</a>
+
+
 # 🔴 Redstone Overhaul Mod
 
 A complete redesign of Minecraft's redstone system for Fabric, featuring modern logic, AI optimization, and GPU rendering.
