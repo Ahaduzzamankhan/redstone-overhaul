@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "redstone_overhaul",
+	"version": "${version}",
+	"name": "Redstone Overhaul",
+	"description": "A complete redesign of Minecraft's redstone system with modern logic, GPU rendering, and AI-powered circuit optimization.",
+	"authors": [
+		"Fluxenite"
+	],
+	"contact": {
+		"homepage": "https://github.com/fluxenite/redstone-overhaul",
+		"sources": "https://github.com/fluxenite/redstone-overhaul"
+	},
+	"license": "MIT",
+	"icon": "assets/redstone_overhaul/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.cadmium.redstone.RedstoneOverhaulMod"
+		]
+	},
+	"mixins": [
+		"redstone_overhaul.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": ">=26.1 <26.2",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/fluxenite"
+			}
+		}
+	}
+}

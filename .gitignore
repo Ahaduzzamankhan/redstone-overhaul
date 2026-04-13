@@ -1,0 +1,70 @@
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+!.gradle/wrapper/gradle-wrapper.properties
+build/
+build/libs/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.project
+.classpath
+.settings/
+.factorypath
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Minecraft
+run/
+logs/
+crash-reports/
+*.log
+
+# Compiled jars
+*.class
+*.jar
+
+# Java
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Package Manager
+node_modules/
+package-lock.json
+yarn.lock
+.pnp.*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Loom cache
+.loom-cache/
+*.loom
+
+# Temporary files
+*.tmp
+*.temp
